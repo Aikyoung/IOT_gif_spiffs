@@ -2,7 +2,7 @@
 
 # GIF display with rainmaker control documentation
 
-This repository contains information on how to display and control 2 GIFs on a JC2432W328C board equipped with the ST7789 display controller via a mounted SD card. It is part of a 2-phase project with kaine119 to create a teaching feedback system.
+This repository contains information on how to display and control 2 GIFs on a JC2432W328C board equipped with the ST7789 display controller via a mounted SD card. It is part of a 2-phase project with [kaine119](https://github.com/kaine119/clear-right-mic) to create a teaching feedback system.
 
 ## 📋 Table of Contents
 
