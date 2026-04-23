@@ -36,6 +36,7 @@ This repository contains information on how to display and control 2 GIFs on a J
 ### 1. RAW file preparation
 
 **Step 1: Use make_raw.py to convert GIF format files into RAW format**
+/n
 Due to the JC2432W328C board not having a PSRAM, it is taxing on the RAM to simultaneously handle rainmaker and display memory requirements. Hence the GIF is formatted into RAW data directly to reduce the need for decoding.
 
 **Step 2: Insert RAW files into SD card and mount the SD card**
