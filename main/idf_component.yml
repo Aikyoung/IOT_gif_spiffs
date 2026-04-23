@@ -1,0 +1,8 @@
+dependencies:
+  idf: ">=5.0"
+  espressif/esp_jpeg:
+    version: "^1.0.0"
+  espressif/esp_rainmaker:
+    version: "^1.0.0"
+  espressif/rmaker_common:
+    version: "^1.0.0"
